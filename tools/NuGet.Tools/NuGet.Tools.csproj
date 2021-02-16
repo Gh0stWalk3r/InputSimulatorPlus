@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Codecov" Version="1.7.2" />
+    <PackageReference Include="Codecov" Version="1.13.0" />
   </ItemGroup>
 
 </Project>
